@@ -47,8 +47,6 @@ function reset(routeName, params) {
     }
 }
 
-// Add more navigation functions as needed
-
 export default {
     navigate,
     setTopLevelNavigator,
